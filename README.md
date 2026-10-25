@@ -46,3 +46,7 @@ npm run test:e2e
 The unit suite checks mathematical sections, rotations, degenerate intersections, gravity, collisions across W, settling, boundaries, and long-running numerical stability. The browser suite checks scene changes, toy creation and manipulation, slice visibility, controls, keyboard input, dialogs, and responsive layout. Playwright can start its own Vite server; run `npx playwright install chromium` if its Chromium runtime is not already installed.
 
 Source structure: `geometry4d.ts` contains pure geometry; `physics.ts` contains the simulation; `sandbox.ts` owns rendering and pointer gestures; `main.ts` connects the interface and controls.
+
+## Play online
+
+[Play the hosted game](https://intrepion.github.io/kata-4d-toys-clone-astra-6-ultra/)
