@@ -20,6 +20,6 @@
     "@types/three": "^0.180.0",
     "typescript": "^5.9.2",
     "vite": "^7.1.7",
-    "vitest": "^4.1.11"
+    "vitest": "^4.1.12"
   }
 }
