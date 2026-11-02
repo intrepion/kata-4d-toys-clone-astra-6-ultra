@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "gameId": "kata-4d-toys-clone-astra-6-ultra",
   "playUrl": "https://intrepion.github.io/kata-4d-toys-clone-astra-6-ultra/",
   "screenshots": [
@@ -12,6 +12,80 @@
         "sourcePath": "artifacts/playground-desktop.png",
         "deployedBuild": null,
         "captureDate": null
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-01.jpg",
+      "sha256": "52f3af8f68046aeac03bb536af8e4169b51c849bd7eb1a4b8d69193d74a3158e",
+      "alt": "4D Toys gameplay, view 1",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-01.png",
+        "sourceSha256": "dc41f63f6d6439260f325913d8771144ae5ce60066790307e869e54fa74d84d0",
+        "captureCommit": "3f16930ae40c1c12f5f20d4ada2e7339196360fd",
+        "workflowRunId": "41420127781",
+        "inputHashes": {
+          "index.html": "068329f53aba0a9cd69413daa4396495a5a7f7395f7290d1fbbdccc3ae384fa7",
+          "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
+          "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
+          "assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
+          "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
+          "assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": "6bb2b2645ba5eeaecf56322c543fa3a75b87b927977b9c03b1dabc4205089120",
+          "assets/dm-sans-latin-600-normal-BmdmIIQ2.woff": "e7351257e49400eff05aca30a2007289194a900860d30c30770d8b8732897564",
+          "assets/dm-sans-latin-700-normal-CUSSCpQX.woff": "af422a448ac00679a8dbb13532db3616829c5a35b58d3eeea5903ce17ad2e36a",
+          "assets/dm-sans-latin-700-normal-DvUfVpUG.woff2": "35c5efa0e5daa52ee5c6500f5be354bf751fb65c4e49e1d6806c6eb5883e8fe9",
+          "assets/index-B5vOi_Q0.css": "ec548b770d848cddf44742280c478bf222229b239a4ac53c14f67842e92eddf3",
+          "assets/index-DImnby18.js": "2e57ece60addfc70fe0ab7ceeb42442afb1b1d85f120c09ec597c2e9b83ff444",
+          "assets/manrope-latin-500-normal-BYYD-dBL.woff2": "19874318747181a650eda439c37955220b849d9c4797c9e0718ee67d4bf929bc",
+          "assets/manrope-latin-500-normal-DMZssgOp.woff": "c805ac8fd73fb95ddba74e624500c7d7d9a8ec6434d723bb6a9b76173c9e41b4",
+          "assets/manrope-latin-600-normal-4f0koTD-.woff2": "f7ac6258da20ab7541939b59851155753d1d24f1b30cbcb949077a3faa3d1593",
+          "assets/manrope-latin-600-normal-BqgrALkZ.woff": "8d1f509774bca963fa02faf674678ce9244474306361ca2798583fa600346df6",
+          "assets/manrope-latin-700-normal-BZp_XxE4.woff2": "d2a12c85a831e4b5db341767d0347fa3d1361d22a1fcb3e361a16b6c90080f71",
+          "assets/manrope-latin-700-normal-DGRFkw-m.woff": "e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61",
+          "assets/manrope-latin-800-normal-BfWYOv1c.woff2": "74c161dbcbce7c3590803cc72dc1f63313c360e13367aba5075a7b7b3818ea49",
+          "assets/manrope-latin-800-normal-uHUdIJgA.woff": "ce954acb78379d559111a15d29925f3390b69161b2b1365c38b0f19c76991bac",
+          "assets/three-engine-BGqSEADu.js": "c8bdf4807ee846285f24a63d7830142500cdd46eb833374e4905e0e0479853de"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "a4f9c75bf301a0a15b2750c9e0e065c468602d312593fb08301b87503e83edc7"
+      }
+    },
+    {
+      "path": "arcade/screenshots/ci-20261102-02.jpg",
+      "sha256": "bf87b901d0a2c1ab50abdb5eea4fea0d6a62b20c0e0987338e82293a78971d98",
+      "alt": "4D Toys gameplay, view 2",
+      "provenance": {
+        "kind": "ci_gameplay_capture",
+        "sourcePath": "arcade/capture-evidence/ci-20261102-02.png",
+        "sourceSha256": "1f95e4d4917440aa5ad0ed20c8d30e15e1a9a774ff2da2eb2f6c7f1d6da5658b",
+        "captureCommit": "3f16930ae40c1c12f5f20d4ada2e7339196360fd",
+        "workflowRunId": "41420127781",
+        "inputHashes": {
+          "index.html": "068329f53aba0a9cd69413daa4396495a5a7f7395f7290d1fbbdccc3ae384fa7",
+          "assets/dm-sans-latin-400-normal-BwCSEQnW.woff": "38702875fe179437d200e7ba6f7fab4d497ffe48117ef332029b2081751186ad",
+          "assets/dm-sans-latin-400-normal-CW0RaeGs.woff2": "4ab51eb2cd7305d177187908d6397474d4520663f6c6e572feb0a64f4fa80006",
+          "assets/dm-sans-latin-500-normal-B9HHJjqV.woff2": "19bf1984956517c35c2bd35b6cdedac12a21d6fcd3596c614ecdfb88b648909d",
+          "assets/dm-sans-latin-500-normal-Dr3UlScf.woff": "7deb957e430b780ee3272d801af4f9f2211b1330ec40a312a8f25309eacb4034",
+          "assets/dm-sans-latin-600-normal-Aqo67rzb.woff2": "6bb2b2645ba5eeaecf56322c543fa3a75b87b927977b9c03b1dabc4205089120",
+          "assets/dm-sans-latin-600-normal-BmdmIIQ2.woff": "e7351257e49400eff05aca30a2007289194a900860d30c30770d8b8732897564",
+          "assets/dm-sans-latin-700-normal-CUSSCpQX.woff": "af422a448ac00679a8dbb13532db3616829c5a35b58d3eeea5903ce17ad2e36a",
+          "assets/dm-sans-latin-700-normal-DvUfVpUG.woff2": "35c5efa0e5daa52ee5c6500f5be354bf751fb65c4e49e1d6806c6eb5883e8fe9",
+          "assets/index-B5vOi_Q0.css": "ec548b770d848cddf44742280c478bf222229b239a4ac53c14f67842e92eddf3",
+          "assets/index-DImnby18.js": "2e57ece60addfc70fe0ab7ceeb42442afb1b1d85f120c09ec597c2e9b83ff444",
+          "assets/manrope-latin-500-normal-BYYD-dBL.woff2": "19874318747181a650eda439c37955220b849d9c4797c9e0718ee67d4bf929bc",
+          "assets/manrope-latin-500-normal-DMZssgOp.woff": "c805ac8fd73fb95ddba74e624500c7d7d9a8ec6434d723bb6a9b76173c9e41b4",
+          "assets/manrope-latin-600-normal-4f0koTD-.woff2": "f7ac6258da20ab7541939b59851155753d1d24f1b30cbcb949077a3faa3d1593",
+          "assets/manrope-latin-600-normal-BqgrALkZ.woff": "8d1f509774bca963fa02faf674678ce9244474306361ca2798583fa600346df6",
+          "assets/manrope-latin-700-normal-BZp_XxE4.woff2": "d2a12c85a831e4b5db341767d0347fa3d1361d22a1fcb3e361a16b6c90080f71",
+          "assets/manrope-latin-700-normal-DGRFkw-m.woff": "e5d35fda4759b0d63ebcc6cca0627d98d9208254ce851c85df29e4d12aeafb61",
+          "assets/manrope-latin-800-normal-BfWYOv1c.woff2": "74c161dbcbce7c3590803cc72dc1f63313c360e13367aba5075a7b7b3818ea49",
+          "assets/manrope-latin-800-normal-uHUdIJgA.woff": "ce954acb78379d559111a15d29925f3390b69161b2b1365c38b0f19c76991bac",
+          "assets/three-engine-BGqSEADu.js": "c8bdf4807ee846285f24a63d7830142500cdd46eb833374e4905e0e0479853de"
+        },
+        "publishedFilesVerifiedAt": "2026-11-02T19:01:20Z",
+        "captureRecordPath": "arcade/capture-evidence/ci-20261102-record.json",
+        "captureRecordSha256": "a4f9c75bf301a0a15b2750c9e0e065c468602d312593fb08301b87503e83edc7"
       }
     }
   ]
