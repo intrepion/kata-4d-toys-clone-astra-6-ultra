@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "gameId": "kata-4d-toys-clone-astra-6-ultra",
+  "playUrl": "https://intrepion.github.io/kata-4d-toys-clone-astra-6-ultra/",
+  "screenshots": [
+    {
+      "path": "arcade/screenshots/view-01.jpg",
+      "sha256": "66e7d1a8e6d9169017c847b25f5815268e5940635b79656a33af09e3595f6150",
+      "alt": "Gameplay capture 1",
+      "provenance": {
+        "kind": "existing_repository_capture",
+        "sourcePath": "artifacts/playground-desktop.png",
+        "deployedBuild": null,
+        "captureDate": null
+      }
+    }
+  ]
+}
