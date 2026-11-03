@@ -4,8 +4,8 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        manualChunks: {
-          "three-engine": ["three"],
+        manualChunks(id) {
+          if (id.includes("/node_modules/three/")) return "three-engine";
         },
       },
     },
