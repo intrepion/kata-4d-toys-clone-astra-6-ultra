@@ -13,11 +13,11 @@
   "dependencies": {
     "@fontsource/dm-sans": "^5.2.8",
     "@fontsource/manrope": "^5.2.8",
-    "three": "^0.180.0"
+    "three": "^0.187.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.55.1",
-    "@types/three": "^0.180.0",
+    "@types/three": "^0.187.0",
     "typescript": "^7.0.2",
     "vite": "^8.3.5",
     "vitest": "^5.1.0"
